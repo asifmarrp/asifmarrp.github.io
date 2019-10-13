@@ -1,0 +1,29 @@
+@media only screen and (max-width: 860px) {
+    ul.large{display: none;}
+    ul.logos.device{display: block;}
+    ul.top_menu {right: 20px;}
+    header a .logo{
+        top: 8px;
+        left: 8px;
+        width: 120px;
+        height: 40px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .desktop{display: none;}
+    .device{display: block;}
+    h1{font-size: 30px;}
+    section .sidePannel{
+        padding: 10px;
+        height: auto;
+        width: 100%;
+        background-color: white;
+        padding-bottom: 15px;
+    }
+    section .sidePannel h2{margin-top: 50px;font-size: 25px;text-transform: none;}
+    section .target{
+        width: 100%;
+        margin: unset;
+        padding: 200px 0 70px 0;
+    }
+}

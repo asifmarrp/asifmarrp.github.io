@@ -1,0 +1,52 @@
+section .sidePannel{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100vh;
+    text-align: left;
+    padding: 40px;
+    box-sizing: border-box;
+}
+section .sidePannel h2{
+    margin-top: 40vh;
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #505659;
+}
+section .target{
+    width: calc(100% - 310px);
+    padding: 150px 0 250px 0;
+    margin-left: 310px;
+}
+section .target h3{
+    text-align: left;
+    color: #505659;
+}
+a{
+    text-decoration: underline;
+    font-style: normal;
+}
+section .target p.topic{
+    margin: 50px 0;
+    text-align: left;
+    padding-left: 15%;
+    font-weight: 600;
+}
+section .target p.subtopic{
+    margin: 50px 0;
+    text-align: left;
+    padding-left: 35%;
+}
+section .target p.disable,
+section .target .topic strong,
+section .target .topic b,
+section .target .subtopic .category,
+section .target .topic .category{display: none;}
+a, a:active, a:visited{
+    font-weight: normal;
+    text-decoration: none;
+}
+a p span{color: #0086fa;}
+section .target p.subtopic i{color: #969696;}
+section .target .topic i{opacity: 0;}

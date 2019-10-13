@@ -1,0 +1,163 @@
+.noDisplay, .disable{
+    display: none;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+section{text-align: right;}
+section .sidePannel{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100vh;
+    text-align: left;
+    padding: 120px 0 0 10px;
+    box-sizing: border-box;
+    transition: all ease 1s;
+}
+section .sidePannel h2{
+    font-size: 20px;
+    color: #505659;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+section .target{
+    text-align: left;
+    width: calc(100% - 650px);
+    padding-top: 100px;
+    margin-right: 60px;
+    position: relative;
+    display: inline-block;
+}
+section .target .header{
+    margin-bottom: 15px;
+}
+section .target .header h1{
+    font-weight: 600;
+    font-size: 30px;
+    width: 100%;
+    max-width: 600px;
+}
+section .target .header h1 span{
+    color: #0086fa;
+}
+section .target p{
+    font-size: 15px;
+    margin-bottom: 15px;
+    line-height: 1.6em;
+    color: #505659;
+    width: 100%;
+    max-width: 600px;
+    padding-bottom: 155px;
+}
+section .sidePannel h2,
+section .sidePannel #menu{
+    padding-left: 20px;
+}
+section .sidePannel h2{text-transform: uppercase;}
+section .sidePannel a{
+    text-decoration: none;
+    font-style: normal;
+    font-size: 14px;
+    color: #505659;
+    margin-bottom: 10px;
+    font-weight: 400;
+    display: block;
+    cursor: pointer;
+}
+section .sidePannel a:nth-child(2){
+    margin-bottom: 40px;
+}
+section .sidePannel a.current{
+    font-style: italic;
+    color: #0086fa;
+    border-left: 6px solid #0086fa;
+    padding-left: 10px;
+}
+section .sidePannel a span{position: relative;}
+section .sidePannel a span.device{
+    font-style: normal;
+    font-size: 10px;
+    color: #505659;
+    font-weight: 100;
+    display: none;
+}
+section .anotations{
+    text-align: left;
+    position: relative;
+    display: inline-block;
+    width: 280px;
+    vertical-align: top;
+    padding: 250px 0 0 20px;
+    box-sizing: border-box;
+    line-height: 1.4em; 
+}
+section .anotations a{
+    font-style: normal;
+}
+section .device.link{
+    position: fixed;
+    bottom: 63px;
+    text-align: left;
+    width: 100%;
+    background-color: white;
+    font-size: 12px;
+    z-index: 100;
+}
+@media only screen and (max-width: 800px) {
+    section .device.link{display: block;left: 30px;padding: 20px;}
+    section .target{
+        padding: 80px 20px 0 20px!important;    
+        width: 100%;
+        margin: unset;
+    }
+    section .anotations{
+        padding: 20px;
+        width: 100%;
+        max-width: 500px;
+    }
+    section .sidePannel.hiden{
+        left: -100%;
+    }
+    section .sidePannel{
+        z-index: 2001;
+        background-color: #eaeaea!important;
+        width: 80%!important;
+        max-width: 550px;
+        padding: 0 0 0 15px;
+        min-height: 100vh;
+    }
+    section .sidePannel h2{
+        margin-top: 10px!important;
+        text-transform: none;
+        padding-top: 10px;
+    }
+    header{z-index: 1;}
+    .sidePannel.hiden div a.current{
+        position: fixed;
+        top: 50px;
+        left: 20px;
+        z-index: 2;
+    }
+    .sidePannel.hiden div a.current span{display: inline;z-index: 2;}
+    .sidePannel.hiden div a.current::before{
+        content: url(../img/empty.png);
+        width: calc(100% + 126px);
+        height: 40px;
+        position: absolute;
+        top: -5px;
+        left: -26px;
+        background-color: white;
+        z-index: 1;
+    }
+}
+@media only screen and (max-width: 500px) {
+    section .device.link{
+        display: block;
+        left: 0;
+    padding: 10px;}
+    section .target{padding: 80px 0 0 0!important;}
+}

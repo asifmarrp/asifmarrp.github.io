@@ -1,0 +1,6 @@
+section .title{
+    margin-top: 30vh;
+}
+section .title p{
+    margin: 15px auto;
+}

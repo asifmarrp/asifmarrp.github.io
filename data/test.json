@@ -1,0 +1,853 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+        "id": {
+            "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values"
+        },
+        "updated": {
+            "$t": "2018-11-21T12:17:38.096Z"
+        },
+        "category": [{
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+        }],
+        "title": {
+            "type": "text",
+            "$t": "index"
+        },
+        "link": [{
+            "rel": "alternate",
+            "type": "application/atom+xml",
+            "href": "https://docs.google.com/spreadsheets/d/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/pubhtml"
+        }, {
+            "rel": "http://schemas.google.com/g/2005#feed",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values"
+        }, {
+            "rel": "http://schemas.google.com/g/2005#post",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values"
+        }, {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values?alt\u003djson"
+        }],
+        "author": [{
+            "name": {
+                "$t": "asifmahongkong"
+            },
+            "email": {
+                "$t": "asifmahongkong@gmail.com"
+            }
+        }],
+        "openSearch$totalResults": {
+            "$t": "19"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "entry": [{
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cokwr"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "enable"
+            },
+            "content": {
+                "type": "text",
+                "$t": "topictxt: Entities within scope of the resolution regime, type: topic, linkto: CH1"
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cokwr"
+            }],
+            "gsx$status": {
+                "$t": "enable"
+            },
+            "gsx$topictxt": {
+                "$t": "Entities within scope of the resolution regime"
+            },
+            "gsx$type": {
+                "$t": "topic"
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": "CH1"
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cpzh4"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "enable"
+            },
+            "content": {
+                "type": "text",
+                "$t": "topictxt: Resolution authority, type: topic, linkto: CH2"
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cpzh4"
+            }],
+            "gsx$status": {
+                "$t": "enable"
+            },
+            "gsx$topictxt": {
+                "$t": "Resolution authority"
+            },
+            "gsx$type": {
+                "$t": "topic"
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": "CH2"
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cre1l"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "enable"
+            },
+            "content": {
+                "type": "text",
+                "$t": "topictxt: Resolution authority’s preparatory powers, type: topic, linkto: CH3"
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cre1l"
+            }],
+            "gsx$status": {
+                "$t": "enable"
+            },
+            "gsx$topictxt": {
+                "$t": "Resolution authority’s preparatory powers"
+            },
+            "gsx$type": {
+                "$t": "topic"
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": "CH3"
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/chk2m"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "enable"
+            },
+            "content": {
+                "type": "text",
+                "$t": "topictxt: Resolution conditions, type: topic, linkto: CH4"
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/chk2m"
+            }],
+            "gsx$status": {
+                "$t": "enable"
+            },
+            "gsx$topictxt": {
+                "$t": "Resolution conditions"
+            },
+            "gsx$type": {
+                "$t": "topic"
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": "CH4"
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/ciyn3"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "enable"
+            },
+            "content": {
+                "type": "text",
+                "$t": "topictxt: Resolution powers, type: subtopic, subtopicnum: i, subtopictxt: Transfer to a purchase, linkto: CH5"
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/ciyn3"
+            }],
+            "gsx$status": {
+                "$t": "enable"
+            },
+            "gsx$topictxt": {
+                "$t": "Resolution powers"
+            },
+            "gsx$type": {
+                "$t": "subtopic"
+            },
+            "gsx$subtopicnum": {
+                "$t": "i"
+            },
+            "gsx$subtopictxt": {
+                "$t": "Transfer to a purchase"
+            },
+            "gsx$linkto": {
+                "$t": "CH5"
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/ckd7g"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/ckd7g"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/clrrx"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/clrrx"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cyevm"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cyevm"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cztg3"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cztg3"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/d180g"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/d180g"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/d2mkx"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/d2mkx"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cssly"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cssly"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cu76f"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cu76f"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cvlqs"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cvlqs"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cx0b9"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/cx0b9"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/d9ney"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/d9ney"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/db1zf"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/db1zf"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/dcgjs"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/dcgjs"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }, {
+            "id": {
+                "$t": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/ddv49"
+            },
+            "updated": {
+                "$t": "2018-11-21T12:17:38.096Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }],
+            "title": {
+                "type": "text",
+                "$t": "disable"
+            },
+            "content": {
+                "type": "text",
+                "$t": ""
+            },
+            "link": [{
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1kI4-DDcdpPwm3t5e6J-rDuE1l0doyI6nN4us8UCyt2w/1/public/values/ddv49"
+            }],
+            "gsx$status": {
+                "$t": "disable"
+            },
+            "gsx$topictxt": {
+                "$t": ""
+            },
+            "gsx$type": {
+                "$t": ""
+            },
+            "gsx$subtopicnum": {
+                "$t": ""
+            },
+            "gsx$subtopictxt": {
+                "$t": ""
+            },
+            "gsx$linkto": {
+                "$t": ""
+            }
+        }]
+    }
+}
